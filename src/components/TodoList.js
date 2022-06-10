@@ -12,7 +12,7 @@ const TodoListBlock = styled.div`
 function TodoList() {
   return (
     <TodoListBlock>
-      <TodoItem text="프로젝트 생성하기" done={true} />
+      <TodoItem text="프로젝트 생성하기1" done={true} />
       <TodoItem text="프로젝트 생성하기2" done={true} />
       <TodoItem text="프로젝트 생성하기3" done={true} />
       <TodoItem text="프로젝트 생성하기4" done={false} />
